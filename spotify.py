@@ -11,6 +11,11 @@ from pprint import pprint
 import json
 
 def make_spotify():
+    '''
+    make instance of authorized spotify api client with my details
+    
+    returns instance object
+    '''
     with open('secret.json') as f:
         data = json.load(f)
         
