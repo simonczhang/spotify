@@ -1,1 +1,8 @@
-{"access_token": "BQBK6vIf3Y7Ws-APTOTmNIjw1RdW0MavNs3UtI5CNaLLsIqHaSmm5VWw-IRtzBN1sssRCom-xJ3I9jcaWWs9ycTjAvURVYQodpSw1vckVA1Lj61pQCOsYLw9xCRlSNNG5lQu9O-D-aBzy9giSEyk8fUWiuVTCI9g_ZrKjQ", "token_type": "Bearer", "expires_in": 3600, "refresh_token": "AQCTl9zzBojjV47YYzsMFcNvuj-MzMnUVbK4_qrDaxm6PxSbAk7_zwJsTne6LUVtGkpsrp5A_QxESwAMlA_04cim9DBeUfIiLVUWfyDQAEe3AylSYlWW5dZRBuMOAShgRq2Cdg", "scope": "playlist-read-private user-top-read", "expires_at": 1543806874}
+{
+  "access_token": "BQBK6vIf3Y7Ws-APTOTmNIjw1RdW0MavNs3UtI5CNaLLsIqHaSmm5VWw-IRtzBN1sssRCom-xJ3I9jcaWWs9ycTjAvURVYQodpSw1vckVA1Lj61pQCOsYLw9xCRlSNNG5lQu9O-D-aBzy9giSEyk8fUWiuVTCI9g_ZrKjQ",
+  "token_type": "Bearer",
+  "expires_in": 3600,
+  "refresh_token": "AQCTl9zzBojjV47YYzsMFcNvuj-MzMnUVbK4_qrDaxm6PxSbAk7_zwJsTne6LUVtGkpsrp5A_QxESwAMlA_04cim9DBeUfIiLVUWfyDQAEe3AylSYlWW5dZRBuMOAShgRq2Cdg",
+  "scope": "playlist-read-private user-top-read",
+  "expires_at": 1543806874
+}
